@@ -18,8 +18,6 @@ function fizzBuzz(list1, list2) {
         return listlength;
     }
 
-
-
 }
 module.exports = fizzBuzz; {
     console.log(fizzBuzz([1, 2, 3], [1, 2, 3, 4, 5]));
